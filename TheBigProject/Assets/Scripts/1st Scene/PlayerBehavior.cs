@@ -48,11 +48,19 @@ public class PlayerBehavior : MonoBehaviour
             {
                 SceneManager.LoadScene("Test05");
             }
-            if (collisionInfo.collider.tag == "Stairs")
-            {
-                SceneManager.LoadScene("1");
-                Debug.Log("QWE");
-            }
+            
+            
+          
+        }
+        if (collisionInfo.collider.tag == "Stairs")
+        {
+            SceneManager.LoadScene("1");
+            Debug.Log("QWE");
+        }
+        if (collisionInfo.collider.name == "Enter")
+        {
+            SceneManager.LoadScene("Packman");
+            Debug.Log("QEE");
         }
     }
 }

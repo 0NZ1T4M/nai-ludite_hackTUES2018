@@ -39,6 +39,9 @@ EditorBuildSettings:
     path: Assets/Scenes/Tests/Test03.unity
     guid: 23e49bb25806e204e9702e3aa6d615c1
   - enabled: 1
+    path: Assets/Scenes/packman.unity
+    guid: 6890fb959b9d1e84ca072084c60d6c03
+  - enabled: 1
     path: Assets/Scenes/Tests/Test04.unity
     guid: bba1617bd4f9fc14ba7d1060980caaa9
   - enabled: 1
