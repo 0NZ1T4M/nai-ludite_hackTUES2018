@@ -33,11 +33,17 @@ EditorBuildSettings:
     path: 
     guid: 00000000000000000000000000000000
   - enabled: 1
+    path: Assets/Scenes/paclose.unity
+    guid: 2474988eeb0a1304ea6b36f786fbeb94
+  - enabled: 1
     path: Assets/Scenes/Tests/Test01.unity
     guid: 80812eb3386f2084db2a44a81453c243
   - enabled: 1
     path: Assets/Scenes/Tests/Test02.unity
     guid: 8bab27c6f7c0f714b93abbf970f8cc1e
+  - enabled: 1
+    path: Assets/Scenes/pacwin.unity
+    guid: 1149786248970ec4099255e429838d88
   - enabled: 0
     path: 
     guid: 00000000000000000000000000000000

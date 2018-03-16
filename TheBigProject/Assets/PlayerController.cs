@@ -39,8 +39,7 @@ public class PlayerController : MonoBehaviour
         }
         if (count == 21)
         {
-            winText.text = "You Win!";
-            SceneManager.LoadScene("1st scene");
+            SceneManager.LoadScene("pacwin");
         }
     }
 
@@ -53,7 +52,7 @@ public class PlayerController : MonoBehaviour
     {
         if (other.gameObject.tag == "Enemy")
         {
-            SceneManager.LoadScene("1st scene");
+            SceneManager.LoadScene("paclose");
         }
     }
 }
