@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/packman.unity
+- path: Assets/Scenes/Tests/Test10.unity
   isLoaded: 1
   isActive: 1
