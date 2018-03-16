@@ -48,9 +48,29 @@ public class PlayerBehavior : MonoBehaviour
             {
                 SceneManager.LoadScene("Test05");
             }
-            
-            
-          
+            if (collisionInfo.collider.name == "Door6")
+            {
+                SceneManager.LoadScene("Test06");
+            }
+            if (collisionInfo.collider.name == "Door7")
+            {
+                SceneManager.LoadScene("Test07");
+            }
+            if (collisionInfo.collider.name == "Door8")
+            {
+                SceneManager.LoadScene("Test08");
+            }
+            if (collisionInfo.collider.name == "Door9")
+            {
+                SceneManager.LoadScene("Test09");
+            }
+            if (collisionInfo.collider.name == "Door10")
+            {
+                SceneManager.LoadScene("Test10");
+            }
+
+
+
         }
         if (collisionInfo.collider.tag == "Stairs")
         {

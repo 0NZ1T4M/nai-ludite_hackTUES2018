@@ -286,6 +286,8 @@
     <Compile Include="Assets\Follow.cs" />
     <Compile Include="Assets\Pick.cs" />
     <Compile Include="Assets\PlayerController.cs" />
+    <Compile Include="Assets\Scores.cs" />
+    <Compile Include="Assets\Scorescritp.cs" />
     <Compile Include="Assets\Scripts\1st Scene\FollowPlayer.cs" />
     <Compile Include="Assets\Scripts\1st Scene\PlayerBehavior.cs" />
     <Compile Include="Assets\Scripts\CorrectScene\PressTrue.cs" />

@@ -19,31 +19,58 @@ EditorBuildSettings:
     guid: b4cfc6e8d94ae9c4bb25c379beb032b6
   - enabled: 0
     path: 
-    guid: 232a6352a7110e340baf6b24f9c1ffa5
+    guid: 00000000000000000000000000000000
   - enabled: 0
     path: 
-    guid: 73ef024f98e5ea9418841a8777ac31d2
+    guid: 00000000000000000000000000000000
   - enabled: 0
     path: 
-    guid: 80db1cb66652e8c4ca456b924ae67d0e
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Floors/1st scene - Copy.unity
+    guid: 82e0d45880cc70044af17ce50a393090
   - enabled: 0
     path: 
-    guid: 0bf26517ef6d32147bac6916bef4bf7a
+    guid: 00000000000000000000000000000000
   - enabled: 1
     path: Assets/Scenes/Tests/Test01.unity
     guid: 80812eb3386f2084db2a44a81453c243
   - enabled: 1
     path: Assets/Scenes/Tests/Test02.unity
     guid: 8bab27c6f7c0f714b93abbf970f8cc1e
+  - enabled: 0
+    path: Assets/Scenes/Floors/2.unity
+    guid: 4785c0f0179ec5b4d80649baaef3dabf
   - enabled: 1
     path: Assets/Scenes/Tests/Test03.unity
     guid: 23e49bb25806e204e9702e3aa6d615c1
+  - enabled: 1
+    path: Assets/Scenes/Tests/Test10.unity
+    guid: 8a6521f1f1d3f8a4997357635c989df8
+  - enabled: 1
+    path: Assets/Scenes/CorrectScene2.unity
+    guid: e0b4a001706eb7f49a004e5e7f7ebe41
+  - enabled: 1
+    path: Assets/Scenes/Floors/1.unity
+    guid: b631c7e510c691644913ab06f904ef93
   - enabled: 1
     path: Assets/Scenes/packman.unity
     guid: 6890fb959b9d1e84ca072084c60d6c03
   - enabled: 1
     path: Assets/Scenes/Tests/Test04.unity
     guid: bba1617bd4f9fc14ba7d1060980caaa9
+  - enabled: 1
+    path: Assets/Scenes/Tests/Test09.unity
+    guid: 1817d7eab486966448b2947c7a2113a2
+  - enabled: 1
+    path: Assets/Scenes/Tests/Test08.unity
+    guid: 374c6e37d3a60e24ebbabbe1e6f63af2
+  - enabled: 1
+    path: Assets/Scenes/Tests/Test07.unity
+    guid: 7d083413e163b094496a0b01c3738837
+  - enabled: 1
+    path: Assets/Scenes/Tests/Test06.unity
+    guid: 7e36475119b98ad48902f65b8f32da51
   - enabled: 1
     path: Assets/Scenes/Tests/Test05.unity
     guid: 13ae0650323b6904ca2928b425198888
