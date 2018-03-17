@@ -75,12 +75,18 @@ public class PlayerBehavior : MonoBehaviour
         if (collisionInfo.collider.tag == "Stairs")
         {
             SceneManager.LoadScene("1");
-            Debug.Log("QWE");
         }
         if (collisionInfo.collider.name == "Enter")
         {
             SceneManager.LoadScene("Packman");
-            Debug.Log("QEE");
+        }
+        if (collisionInfo.collider.name == "1etaj")
+        {
+            SceneManager.LoadScene("1st scene");
+        }
+        if (collisionInfo.collider.name == "stulba")
+        {
+            SceneManager.LoadScene("1");
         }
     }
 }

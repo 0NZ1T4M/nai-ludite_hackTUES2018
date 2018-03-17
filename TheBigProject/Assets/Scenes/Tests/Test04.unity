@@ -600,7 +600,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u0433)\u0421\u043A\u0430\u043F\u0430\u043D\u043E \u0443\u0447\u0438\u043B\u0438\u0449\u0435"
+  m_Text: "\u0433)\u0423\u0447\u0438\u043B\u0438\u0449\u0435"
 --- !u!222 &1014551513
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -937,7 +937,7 @@ RectTransform:
   m_GameObject: {fileID: 1580754622}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: -8.407606, y: 3.7074592, z: 1}
+  m_LocalScale: {x: -8.828005, y: 3.7074592, z: 1}
   m_Children: []
   m_Father: {fileID: 2114541721}
   m_RootOrder: 0
